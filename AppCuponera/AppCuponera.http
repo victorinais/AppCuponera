@@ -1,0 +1,6 @@
+@AppCuponera_HostAddress = http://localhost:5027
+
+GET {{AppCuponera_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
